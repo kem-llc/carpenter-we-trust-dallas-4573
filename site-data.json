@@ -2,32 +2,28 @@
   "business": {
     "name": "Carpenter WE TRUST",
     "shortName": "WE TRUST",
-    "tagline": "Expert Carpentry Crafted for Dallas Homes",
+    "tagline": "Expert Carpentry, Unmatched Integrity",
     "niche": "Carpenter",
     "phone": "(817) 951-4573",
-    "address": "7114 Manor Oaks Dr, Dallas, TX 75248",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
-    "ctaLabel": "Get a Free Quote",
+    "hours": "Mon-Fri: 7AM-7PM, Sat: 8AM-4PM",
+    "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Carpenter in Dallas, TX | Custom Woodwork & Repairs | Carpenter WE TRUST",
-    "description": "Dallas's trusted carpenter since 2010. Custom cabinets, trim, decks, and repairs. 5.0 stars from 18 reviews. Call (817) 951-4573 for a free estimate."
+    "title": "Carpenter WE TRUST | Expert Carpentry Services in Dallas, TX",
+    "description": "Trusted carpentry in Dallas, TX. Custom furniture, cabinetry, trim & more. Free estimates. Call (817) 951-4573."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Carpentry Service",
-      "headline": "Transform Your Home with Expert Woodwork",
-      "subheadline": "From custom built-ins to intricate trim, we bring precision and passion to every project.",
-      "primaryCta": "Get a Free Quote",
-      "secondaryCta": "See Our Work"
+      "eyebrow": "Dallas's Premier Carpenter",
+      "headline": "Crafting Quality Woodwork for Your Home",
+      "subheadline": "From custom furniture to intricate trim, we bring precision and passion to every project.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
     },
     "stats": [
-      {
-        "value": "18",
-        "label": "5-Star Reviews"
-      },
       {
         "value": "15+",
         "label": "Years Experience"
@@ -37,276 +33,288 @@
         "label": "Projects Completed"
       },
       {
-        "value": "100%",
-        "label": "Satisfaction Guarantee"
+        "value": "98%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Cabinetry",
-        "title": "Built-In Beauty for Every Room",
-        "body": "Our custom cabinetry transforms kitchens, bathrooms, and living spaces with handcrafted woodwork that maximizes storage and adds timeless elegance.",
+        "eyebrow": "Custom Creations",
+        "title": "Bespoke Furniture & Cabinetry",
+        "body": "We design and build custom pieces that fit your space and style perfectly. Every joint is handcrafted with care.",
         "bullets": [
-          "Bespoke designs tailored to your style",
-          "Premium hardwoods and finishes",
-          "Soft-close hardware and dovetail joinery"
+          "Tailored to your measurements",
+          "Premium hardwoods & finishes",
+          "Built to last a lifetime"
         ],
         "reverse": false,
-        "cardLabel": "Kitchen",
-        "cardTitle": "Custom Kitchen Cabinets",
-        "cardBody": "From traditional to modern, our cabinets are built to last and designed to impress."
+        "cardLabel": "Portfolio",
+        "cardTitle": "Our Recent Work",
+        "cardBody": "See how we transformed a Dallas living room with a custom entertainment center."
       },
       {
-        "eyebrow": "Trim & Molding",
-        "title": "Flawless Finish with Expert Trim",
-        "body": "Crown molding, baseboards, and wainscoting add character and value. We install with precision for seamless, beautiful results.",
+        "eyebrow": "Precision Work",
+        "title": "Expert Trim & Molding Installation",
+        "body": "Enhance your home's character with flawless crown molding, baseboards, and wainscoting.",
         "bullets": [
-          "Crown molding and chair rails",
-          "Custom wainscoting and paneling",
-          "Window and door casings"
+          "Seamless corners & joints",
+          "Wide selection of profiles",
+          "Painting & staining available"
         ],
         "reverse": true,
-        "cardLabel": "Living Room",
-        "cardTitle": "Elegant Wainscoting",
-        "cardBody": "Add architectural interest and a touch of class to any room."
+        "cardLabel": "Testimonial",
+        "cardTitle": "What Clients Say",
+        "cardBody": "The trim work transformed our old house into a showpiece. Incredible attention to detail."
       }
     ],
-    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyTitle": "Why Choose Us",
     "whyChooseUs": [
       {
         "title": "Master Craftsmanship",
-        "description": "Every cut, joint, and finish is executed with meticulous attention to detail by experienced carpenters."
+        "description": "Every cut, joint, and finish is executed with years of skill and an eye for perfection."
       },
       {
         "title": "Reliable & Punctual",
-        "description": "We show up on time, communicate clearly, and complete projects within the agreed timeline."
+        "description": "We show up on time and complete projects within the agreed timeline, no excuses."
       },
       {
-        "title": "Custom Solutions",
-        "description": "No cookie-cutter work. We listen to your needs and create one-of-a-kind pieces that fit your space perfectly."
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. You'll know the cost upfront, and we stick to it."
       },
       {
-        "title": "Clean & Respectful",
-        "description": "We treat your home with care, keeping the workspace tidy and minimizing disruption to your daily life."
+        "title": "Fully Insured",
+        "description": "Your home and peace of mind are protected. We carry full liability insurance."
       }
     ],
     "testimonials": [
       {
-        "quote": "They built custom bookshelves for my home office and the craftsmanship is outstanding. Highly recommend!",
-        "author": "Mark T.",
-        "role": "Lakewood homeowner"
-      },
-      {
-        "quote": "On time, on budget, and the quality exceeded my expectations. My kitchen cabinets are gorgeous.",
-        "author": "Laura S.",
-        "role": "Preston Hollow resident"
-      },
-      {
-        "quote": "The team was professional and friendly. They transformed our outdated living room with beautiful wainscoting.",
-        "author": "David R.",
+        "quote": "They built custom bookshelves that fit our odd alcove perfectly. The craftsmanship is outstanding.",
+        "author": "Linda M.",
         "role": "Highland Park homeowner"
+      },
+      {
+        "quote": "Professional from start to finish. The team was courteous, clean, and the work exceeded our expectations.",
+        "author": "James R.",
+        "role": "Uptown condo owner"
+      },
+      {
+        "quote": "We hired them for full kitchen cabinet replacement. The quality is superb and the project finished ahead of schedule.",
+        "author": "Patricia L.",
+        "role": "Lakewood resident"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Contact us today for a free, no-obligation consultation and estimate.",
-      "primaryCta": "Get a Free Quote",
+      "subheadline": "Contact us today for a free, no-obligation estimate.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "Call (817) 951-4573"
     }
   },
   "servicesPage": {
-    "intro": "From small repairs to full renovations, our carpentry services in Dallas cover every need. We combine traditional techniques with modern tools to deliver exceptional results."
+    "intro": "From small repairs to full renovations, our carpentry services cover every need. We combine traditional woodworking techniques with modern tools to deliver exceptional results."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Custom Cabinetry",
-      "shortDescription": "Bespoke cabinets for kitchens, bathrooms, and more.",
-      "longDescription": "We design and build custom cabinets that maximize storage and enhance your home's aesthetic. Using premium materials and expert joinery, each piece is tailored to your specifications.",
+      "title": "Custom Furniture",
+      "shortDescription": "Handcrafted tables, chairs, beds, and more built to your specifications.",
+      "longDescription": "Our custom furniture service brings your vision to life. Whether you need a dining table that seats twelve or a unique bed frame, we use select hardwoods and time-honored joinery techniques.",
       "benefits": [
-        "Maximized storage and organization",
-        "Personalized design and finishes",
-        "Durable construction that lasts decades"
+        "Unique design tailored to your space",
+        "Heirloom-quality construction",
+        "Choice of wood species and finish",
+        "Fits odd dimensions perfectly"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We discuss your needs, style preferences, and budget to create a design plan."
+          "description": "We discuss your needs, style preferences, and budget."
         },
         {
-          "title": "Design & Material Selection",
-          "description": "We provide detailed drawings and help you choose wood, hardware, and finish."
+          "title": "Design & Approval",
+          "description": "We create detailed drawings and get your sign-off."
         },
         {
-          "title": "Installation & Finish",
-          "description": "Our team installs with precision and applies the final finish for a flawless look."
+          "title": "Build & Install",
+          "description": "We craft the piece and deliver it to your home."
         }
       ],
       "faqs": [
         {
-          "question": "How long does it take to build custom cabinets?",
-          "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
+          "question": "How long does custom furniture take?",
+          "answer": "Typically 4-6 weeks depending on complexity."
         },
         {
-          "question": "What types of wood do you offer?",
-          "answer": "We offer oak, maple, cherry, walnut, and more. We'll help you choose based on style and budget."
+          "question": "Can you match existing furniture?",
+          "answer": "Yes, we can match stain colors and styles to blend with your current decor."
         }
       ],
-      "slug": "custom-cabinetry"
+      "slug": "custom-furniture"
     },
     {
       "icon": "02",
-      "title": "Trim & Molding Installation",
-      "shortDescription": "Elegant crown molding, baseboards, and wainscoting.",
-      "longDescription": "Add architectural detail and value with our precision trim installation. We handle everything from simple baseboards to intricate crown molding and custom wainscoting.",
+      "title": "Cabinetry & Storage",
+      "shortDescription": "Kitchen cabinets, built-in shelving, and custom storage solutions.",
+      "longDescription": "Maximize your space with custom cabinets and storage. We design and install kitchen cabinets, bathroom vanities, built-in bookcases, and closet systems that combine beauty with functionality.",
       "benefits": [
-        "Enhances home value and curb appeal",
-        "Seamless corners and joints",
-        "Wide variety of styles and profiles"
+        "Optimized storage for your needs",
+        "Seamless integration with your home",
+        "Soft-close drawers & doors",
+        "Durable plywood construction"
       ],
       "process": [
         {
-          "title": "Measurement & Design",
-          "description": "We measure your rooms and recommend molding profiles that complement your home."
+          "title": "Measure & Plan",
+          "description": "We take precise measurements and design the layout."
         },
         {
-          "title": "Material Selection",
-          "description": "Choose from MDF, solid wood, or polyurethane based on budget and durability needs."
+          "title": "Fabrication",
+          "description": "Cabinets are built in our shop to exact specifications."
         },
         {
           "title": "Installation",
-          "description": "We install with coped joints for a seamless look and caulk and paint for a perfect finish."
+          "description": "Professional installers ensure a perfect fit and finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer refacing?",
+          "answer": "Yes, we can reface existing cabinets to give them a fresh look at a lower cost."
+        },
+        {
+          "question": "What materials do you use?",
+          "answer": "We use premium plywood and solid wood doors. Particle board is not an option."
+        }
+      ],
+      "slug": "cabinetry-storage"
+    },
+    {
+      "icon": "03",
+      "title": "Trim & Molding",
+      "shortDescription": "Crown molding, baseboards, wainscoting, and decorative trim.",
+      "longDescription": "Add elegance and value to your home with expertly installed trim. We handle everything from simple baseboard replacement to elaborate crown molding and wainscoting designs.",
+      "benefits": [
+        "Enhances architectural character",
+        "Increases home value",
+        "Flawless miters and joints",
+        "Primed and painted or stained"
+      ],
+      "process": [
+        {
+          "title": "Design Selection",
+          "description": "We help you choose profiles that complement your home."
+        },
+        {
+          "title": "Precision Cutting",
+          "description": "Each piece is cut with accuracy for seamless corners."
+        },
+        {
+          "title": "Installation & Finish",
+          "description": "We install and caulk for a polished look."
         }
       ],
       "faqs": [
         {
           "question": "Can you match existing trim?",
-          "description": "Yes, we can replicate existing profiles or blend new trim with old for a cohesive look."
+          "answer": "Yes, we can replicate any profile or style."
         },
         {
-          "question": "How much does crown molding installation cost?",
-          "answer": "Cost varies by linear footage and complexity. We provide free estimates."
+          "question": "How long does trim installation take?",
+          "answer": "A typical room takes 1-2 days."
         }
       ],
-      "slug": "trim-molding-installation"
-    },
-    {
-      "icon": "03",
-      "title": "Deck & Porch Building",
-      "shortDescription": "Custom outdoor living spaces built to last.",
-      "longDescription": "Create the perfect outdoor retreat with a custom deck or porch. We design and build structures that blend with your home and landscape, using durable materials like cedar, composite, and pressure-treated lumber.",
-      "benefits": [
-        "Expands your living space outdoors",
-        "Increases property value",
-        "Built to withstand Texas weather"
-      ],
-      "process": [
-        {
-          "title": "Site Assessment",
-          "description": "We evaluate your yard, sun exposure, and layout to design the ideal deck."
-        },
-        {
-          "title": "Design & Permitting",
-          "description": "We create plans and handle necessary permits to ensure code compliance."
-        },
-        {
-          "title": "Construction",
-          "description": "Our team builds the deck with proper footings, framing, and finishing touches."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "What materials do you recommend for decks?",
-          "answer": "We recommend composite for low maintenance or cedar for natural beauty. Both are durable."
-        },
-        {
-          "question": "How long does it take to build a deck?",
-          "answer": "Most decks take 1-2 weeks, depending on size and complexity."
-        }
-      ],
-      "slug": "deck-porch-building"
+      "slug": "trim-molding"
     },
     {
       "icon": "04",
-      "title": "General Carpentry Repairs",
-      "shortDescription": "Fix it right the first time.",
-      "longDescription": "From squeaky stairs to broken cabinets, we handle all types of carpentry repairs. Our goal is to restore functionality and appearance with lasting solutions.",
+      "title": "Repairs & Restoration",
+      "shortDescription": "Fix damaged woodwork, doors, windows, and restore old pieces.",
+      "longDescription": "Bring your woodwork back to life. Whether it's a rotting window frame, a sticking door, or an antique piece needing restoration, our craftsmen have the skills to repair and restore.",
       "benefits": [
-        "Quick and reliable service",
-        "Uses quality materials for lasting repairs",
-        "Covers a wide range of issues"
+        "Extends the life of your woodwork",
+        "Restores original beauty",
+        "Cost-effective vs replacement",
+        "Eco-friendly option"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We inspect the issue and identify the root cause."
+          "title": "Assessment",
+          "description": "We inspect the damage and provide a repair plan."
         },
         {
-          "title": "Repair Plan",
-          "description": "We explain the repair needed and provide a transparent quote."
+          "title": "Repair Work",
+          "description": "We replace rotted sections, reglue joints, or refinish surfaces."
         },
         {
-          "title": "Execution",
-          "description": "We complete the repair efficiently, leaving your space clean."
+          "title": "Finish & Protect",
+          "description": "We apply appropriate sealants or paint to match."
         }
       ],
       "faqs": [
         {
-          "question": "Do you do small repairs?",
-          "answer": "Yes, no job is too small. We handle everything from door adjustments to drywall patches."
+          "question": "Can you repair water-damaged cabinets?",
+          "answer": "Yes, we can often replace damaged sections without full replacement."
         },
         {
-          "question": "Can you match paint or stain?",
-          "answer": "We can color-match existing finishes to ensure repairs blend seamlessly."
+          "question": "Do you restore antique furniture?",
+          "answer": "Absolutely. We handle period pieces with care to preserve value."
         }
       ],
-      "slug": "general-carpentry-repairs"
+      "slug": "repairs-restoration"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Carpentry Experts",
-    "mission": "Our mission is to deliver exceptional craftsmanship and outstanding customer service, transforming homes with quality woodwork that stands the test of time.",
+    "headline": "Built on Trust and Skill",
+    "mission": "To provide Dallas homeowners with exceptional carpentry that combines traditional craftsmanship with modern reliability.",
     "story": [
-      "Carpenter WE TRUST was founded in 2010 by a team of skilled carpenters who believed in doing the job right the first time. Starting with small repairs, we built a reputation for precision, reliability, and honest pricing. Over the years, we've grown into a full-service carpentry company serving homeowners across Dallas.",
-      "Every project, whether a custom built-in or a simple repair, receives the same dedication to quality. We use time-honored techniques combined with modern tools to create beautiful, functional spaces. Our 18 five-star reviews reflect our commitment to customer satisfaction and our love for the craft."
+      "Carpenter WE TRUST was founded on the belief that quality woodwork should be accessible to every homeowner. Our founder, a third-generation carpenter, started the business with a single saw and a commitment to doing things right. Over the years, we've grown into a team of skilled artisans who share a passion for wood and a dedication to customer satisfaction.",
+      "We serve the Dallas area with pride, treating every home as if it were our own. From custom furniture to intricate trim, we bring precision and care to every project. Our reputation is built on the trust of our clients, and we work hard to earn it every day."
     ],
     "highlight": {
-      "stat": "18",
-      "label": "5-Star Reviews"
+      "stat": "500+",
+      "label": "Happy Clients Served"
     },
     "coreValues": [
       {
-        "title": "Quality First",
-        "description": "We never cut corners. Every project meets our high standards for materials and workmanship."
+        "title": "Integrity",
+        "description": "We are honest in our pricing, timeline, and communication."
       },
       {
-        "title": "Integrity",
-        "description": "We provide transparent pricing, honest advice, and stand behind our work with a satisfaction guarantee."
+        "title": "Quality",
+        "description": "We never cut corners. Every project meets our high standards."
       },
       {
         "title": "Respect",
-        "description": "We treat your home and your time with respect, communicating clearly and leaving a clean workspace."
+        "description": "We treat your home and your time with respect."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in our work and continuously improve our skills."
       }
     ]
   },
   "contact": {
-    "headline": "Get Your Free Quote Today",
-    "subheadline": "Ready to bring your carpentry project to life? Contact us for a free consultation and estimate.",
-    "primaryCta": "Call (817) 951-4573",
+    "headline": "Let's Discuss Your Project",
+    "subheadline": "We'd love to hear about your carpentry needs.",
+    "primaryCta": "Get a Free Estimate",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
       "Lakewood",
+      "Uptown",
       "Preston Hollow",
-      "North Dallas",
       "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": 5.0,
-    "reviews": 18
+    "rating": "",
+    "reviews": null
   },
   "meta": {
     "niche": "Carpenter",
